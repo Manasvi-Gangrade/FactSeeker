@@ -1,4 +1,5 @@
 FactSeeker : Detect, Verify, Alert
+<img width="1361" height="907" alt="Screenshot 2025-10-19 232629" src="https://github.com/user-attachments/assets/768516e5-1f84-4baf-9eaa-4ecf85572de9" />
 
 Demonstration Video : https://youtu.be/tI_SYASY7Wk
 
